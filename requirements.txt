@@ -1,0 +1,6 @@
+numpy==1.26.4
+mediapipe==0.10.21
+onnxruntime==1.23.2
+pillow==12.1.1
+simsimd
+insightface

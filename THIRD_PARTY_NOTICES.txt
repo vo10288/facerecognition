@@ -1,0 +1,37 @@
+THIRD-PARTY NOTICES
+
+This project includes or depends on third-party software. The list below is a practical
+notice file for redistribution. It does not replace the original licenses, which should
+be reviewed in full before distribution.
+
+1) Python
+   License: Python Software Foundation License Version 2
+   Upstream: https://docs.python.org/3/license.html
+
+2) MediaPipe
+   License: Apache License 2.0
+   Upstream: https://github.com/google-ai-edge/mediapipe
+
+3) OpenCV / opencv-python
+   License: Apache License 2.0
+   Upstream: https://github.com/opencv/opencv
+
+4) ONNX Runtime
+   License: MIT License
+   Upstream: https://github.com/microsoft/onnxruntime
+
+5) InsightFace (code / Python package)
+   License: MIT License
+   Upstream: https://github.com/deepinsight/insightface
+
+Important note about InsightFace models:
+- This project does NOT include InsightFace model files by default.
+- Pretrained model packs such as buffalo_l may be subject to separate terms from the
+  InsightFace source code.
+- Before redistributing model files, packaged executables that include them, or archives
+  that bundle them, you should verify the model-specific terms directly from the upstream
+  project and obtain any permissions or licenses required for your use case.
+
+No warranty:
+This project and its third-party components are provided according to their respective
+licenses and disclaimers. Review each upstream license before commercial or public redistribution.
