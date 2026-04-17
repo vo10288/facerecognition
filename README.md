@@ -54,7 +54,7 @@ insightface
 
 ## Nota pratica
 
-Nel tuo caso, **non inserire `insightface` nel `requirements.txt`**.  
+**non inserire `insightface` nel `requirements.txt`**.  
 Per macOS Intel è meglio continuare così:
 
 ```bash
