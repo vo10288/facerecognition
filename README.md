@@ -22,9 +22,10 @@ Face comparison software for **Directory A vs Directory B** with support for:
 ## Recommended Environment
 
 This project is currently configured for:
-
+- **Linux like TSURUGI-LINUX.ORG**
 - **macOS Intel**
-- **Conda**
+- **Microsoft Windows 11**
+- **Conda OR Venv**
 - **Python 3.11**
 
 This is the recommended setup because `insightface` is more reliable on **conda-forge** for **macOS-64** than via a direct `pip` build from source.
