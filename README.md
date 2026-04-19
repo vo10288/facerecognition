@@ -271,16 +271,17 @@ This software is a technical comparison tool.
 Similarity scores alone do **not** prove identity.
 All results should be reviewed by a qualified human operator.
 
-DISCLAIMER
+purpose, legal admissibility, investigative sufficiency, or evidentiary reliability. Use of this software is entirely at the user's own risk.
 
-This software is provided исключительно as a technical and investigative support tool and must be used responsibly, lawfully, and with appropriate professional judgment.
 
-Users are solely responsible for ensuring that any use of this software complies with all applicable laws, regulations, internal policies, and professional standards, including but not limited to data protection, privacy, and evidence-handling requirements. In jurisdictions subject to the GDPR and similar privacy frameworks, any processing of personal data, biometric data, images, or videos must be carefully assessed for lawfulness, necessity, proportionality, minimization, and purpose limitation before use.
+This software is provided solely as a technical support and investigative tool and must be used responsibly, lawfully, and with due professional judgment.
 
-This software may process image and video files that could contain personal data, sensitive data, biometric information, or material generated, altered, or synthetically produced by artificial intelligence. Users must therefore exercise particular caution when evaluating the authenticity, provenance, integrity, and evidentiary value of such material. AI-generated, AI-edited, or otherwise manipulated media may be misleading and should never be treated as inherently reliable.
+Users are solely responsible for ensuring that any use of this software complies with all applicable laws, regulations, internal policies, and professional standards, including, but not limited to, data protection, privacy, and evidence-handling requirements. In jurisdictions subject to the GDPR and similar privacy regulations, any processing of personal data, biometric data, images, or videos must be carefully assessed for lawfulness, necessity, proportionality, data minimization, and purpose limitation before use.
 
-Similarity scores, facial comparisons, clustering results, or any other automated outputs produced by this software do not constitute proof of identity, authenticity, or evidentiary truth. They are investigative indicators only and must always be verified through independent review, source validation, contextual analysis, and, where required, appropriate forensic methodology.
+This software may process image and video files that may contain personal data, sensitive data, biometric information, or material generated, modified, or synthetically produced by artificial intelligence. Users must therefore exercise particular care in assessing the authenticity, provenance, integrity, and evidentiary value of such material. Media generated, modified, or otherwise manipulated by AI can be misleading and should never be considered inherently reliable.
 
-Especially in criminal investigations, these tools may provide valuable investigative support, but reliance on primary sources remains essential. Careful attention must be given to the original source of the data, the chain of custody, metadata, acquisition method, reproducibility, and any possibility of tampering, synthetic generation, or alteration. Conclusions must never be based solely on automated comparisons or derived outputs.
+Similarity scores, facial comparisons, clustering results, or any other automatic output produced by this software do not constitute proof of identity, authenticity, or evidentiary veracity. They are merely investigative indicators and must always be verified through independent review, source validation, contextual analysis, and, where necessary, appropriate forensic methodologies.
 
-The authors and distributors of this software make no representation or warranty, express or implied, regarding fitness for a particular purpose, legal admissibility, investigative sufficiency, or evidentiary reliability. Use of this software is entirely at the user's own risk.
+Especially in criminal investigations, these tools can provide valuable investigative support, but reliance on primary sources remains essential. Particular attention must be paid to the original source of the data, chain of custody, metadata, acquisition method, reproducibility, and any possibility of tampering, synthetic generation, or alteration. Conclusions should never be based solely on automatic comparisons or derived output.
+
+The authors and distributors of this software make no representations or warranties, express or implied, regarding fitness for a particular purpose, legal admissibility, detective sufficiency, or evidentiary reliability. Use of this software is entirely at the user's own risk.
