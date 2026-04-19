@@ -461,8 +461,7 @@ class FaceCompareDirectoriesApp:
         tmp_pkl.replace(pkl_path)
 
         pkl_sha256 = file_sha256(str(pkl_path))
-        sha_path.write_text(pkl_sha256 + "
-", encoding="utf-8")
+        sha_path.write_text(pkl_sha256 + "\n", encoding="utf-8")
 
         manifest = {
             "schema_version": PKL_CACHE_SCHEMA_VERSION,
